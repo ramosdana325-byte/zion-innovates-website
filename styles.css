@@ -1688,7 +1688,7 @@ footer{padding:70px 0 36px; background:var(--void); color:var(--white); margin-t
   nav{margin-left:16px; margin-right:16px;}
   .wrap{padding:0 20px;}
   .hero{padding:56px 0 30px;}
-  .bg-mountains{height:18vh; height:18dvh; min-height:130px;}
+  .bg-mountains{height:90px;}
   .bg-kite{bottom:13vh; width:70px;}
   .timeline-photo{height:80px;}
   h1.hero-title{font-size:clamp(30px, 8.5vw, 42px);}
